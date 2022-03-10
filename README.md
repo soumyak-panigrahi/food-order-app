@@ -1,6 +1,20 @@
-# Getting Started with Create React App
+# Food Ordering App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project implements a small demo of food ordering App.
+
+This has Simple functionalities which just a Menu and Cart
+
+This is done by using Context State Management.
+
+## To Check the App
+
+```
+$ npm install #Will Install all dependencies
+
+$ npm start
+```
+
+visit [http://localhost:3000](http://localhost:3000)
 
 ## Available Scripts
 
